@@ -1,4 +1,7 @@
-# Budget Plan Module
+# <span id="tjidtitle">Budget Plan Module</span>
+
+<div>Technologies: <span id="tjidtechs">Yii2, MySQL</span></div>
+<br />
 
 This is a module for managing budgets that I created in 2018. Everyone in the organization needs to plan what they're going to do next year and how much money they'll need for it. They also have to figure out where the money will come from, break down the costs, and discuss it with their boss. All of these features need to be handled in the system. So, this module is all about making it possible to create this information and for different parts of the organization to work together.
 
